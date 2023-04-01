@@ -1,0 +1,131 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 650px;
+    height: 300px;
+    left: 41px;
+    top: 78px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    display: flex;
+}
+
+.img1 {
+    width: 237.95px;
+    height: 184.57px;
+    left: 64px;
+    top: 141px;
+    background: url(BB.png);
+    margin-top: 63px;
+    margin-left: 23px;
+    margin-bottom: 63.43px;
+}
+
+.question1 {
+    height: 40px;
+    left: 328px;
+    top: 141px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+}
+
+.text1 {
+    height: 98px;
+    left: 328px;
+    top: 181px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    color: #000000;
+}
+
+.link1 {
+    height: 25px;
+    left: 687px;
+    top: 326px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    /* identical to box height */
+    width: 109px;
+    text-decoration: none;
+    float: right;
+    margin-right: 20px;
+}
+
+.line1 {
+    width: 1356px;
+    height: 0px;
+    left: 34px;
+    top: 496px;
+    border: 2px solid #DFDFDF;
+}
+
+.container2 {
+    height: 300px;
+    top: 599px;
+    background: #FFFFFF;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;
+    float: right;
+    display: flex;
+    width: 650px;
+}
+
+.text2 {
+    height: 98px;
+    top: 702px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 19px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.img2 {
+    height: 258px;
+    top: 614px;
+    background: url(image.png);
+    margin-top: 15px;
+    margin-right: 24px;
+    margin-bottom: 38px;
+}
+
+.question2 {
+    height: 40px;
+    top: 141px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    color: #000000;
+    margin-left: 20px;
+}
+
+.link2 {
+    height: 25px;
+    top: 847px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    /* identical to box height */
+    color: #5076FF;
+    width: 109px;
+    text-decoration: none;
+    float: right;
+    margin-right: 20px;
+}
+
+.link{
+    text-decoration: none;
+}
